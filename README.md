@@ -1,3 +1,3 @@
-# ProyectosPHP
-Proyectos realizados en lenguaje PHP
-Proyecto realizado en lenguaje PHP realizado por un estudiante recién titulado en DAW.
+# ProyectosJavaScript
+Proyectos realizados en lenguaje JavaScript
+Proyecto realizado en lenguaje JavaScript realizado por un estudiante recién titulado en DAW.
